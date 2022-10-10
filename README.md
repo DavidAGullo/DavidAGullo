@@ -20,8 +20,13 @@
   Unity, Unreal, Visual Studio Enterprise 2022, Eclipse, IBM iOS, ERP BAAN LN, Access, Electron
 </p>
 
+## 🔭 I'm Currently working on
+- React Learning Project
+- Point of Sales: Electron and React project
+- System Access Control Program
+
 ## 👯 Connect
-<a href="https://www.linkedin.com/in/davidgullokenosha/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/davidgullokenosha/">LinkedIn</a>  <br>
 <a href="mailto:davidg@fenex.studio">Email</a>
 <!--
 
