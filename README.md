@@ -25,6 +25,8 @@
 - React Learning Project
 - Point of Sales: Electron and React project
 - System Access Control Program
+- Rust Learning Project
+- Script's for Video Games
 
 ## 👯 Connect
 <a href="https://www.linkedin.com/in/davidgullokenosha/">LinkedIn</a>  <br>
