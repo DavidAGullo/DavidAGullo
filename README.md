@@ -11,6 +11,7 @@
   <img alt="Csharp" src="https://img.shields.io/badge/-CSharp-blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-orange" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-green" />
   <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML-CSS-lightgrey" />
 </p>
