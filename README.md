@@ -18,7 +18,7 @@
 
 ## ⚡ Tools and Frameworks
 <p>
-  Unity, Unreal, Visual Studio Enterprise 2022, Eclipse, IBM iOS, ERP BAAN LN, Access, Electron
+  Unity, Unreal, Visual Studio Enterprise 2022, Eclipse, IBM iOS, ERP BAAN LN, Access, Electron, .Net Core, .Net Framework
 </p>
 
 ## 🔭 I'm Currently working on
